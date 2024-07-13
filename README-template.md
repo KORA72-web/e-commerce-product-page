@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:([https://your-solution-url.com](https://github.com/KORA72-web/e-commerce-product-page))
+- Live Site URL: ([https://your-live-site-url.com](https://kora72-web.github.io/e-commerce-product-page/))
 
 
 
@@ -227,17 +227,17 @@ function showSlides(n) {
 ```
 
 ### Continued development
-I would like to continue studying more of creating slideshows
+I would like to continue studying more of creating slideshows and updating of DOM
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/howto/howto_js_slideshow.asp) - This helped me  with site. 
+- [W3 schools](https://www.w3schools.com/howto/howto_js_slideshow.asp) - This helped me  with site. 
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - ([https://www.your-site.com](https://github.com/KORA72-web))
+- Frontend Mentor - ([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/KORA72-web))
+- Twitter -     (https://x.com/annordavid911)
 
